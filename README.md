@@ -51,7 +51,7 @@
 ### 🏆 Achievements and Goals
 - ✅ Built multiple frontend + backend projects
 - 🚀 Preparing for product-based company interviews
-- 🌟 Goal: Land a 10+ LPA role in 2025!
+
 
 ---
 
