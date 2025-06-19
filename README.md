@@ -41,11 +41,11 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KanikaHub&show_icons=true&theme=radical" alt="Kanika's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kanikaHub&theme=radical&hide_border=false" alt="GitHub streak"/>
- <img [GitHub Streak] src="https://github-readme-streak-stats.herokuapp.com/?user=KanikaHub&theme=tokyonight&hide_border=false"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanikaHub&theme=radical&hide_border=false" alt="GitHub Streak - Radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanikaHub&theme=tokyonight&hide_border=false" alt="GitHub Streak - TokyoNight"/>
 </p>
 
 ---
