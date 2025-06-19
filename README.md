@@ -43,8 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanikaHub&show_icons=true&theme=radical" alt="Kanika's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=KanikaHub&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KanikaHub&show_icons=true&theme=radical" alt="Kanika's GitHub stats" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=KanikaHub&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="450"/>
 </p>
 
 
