@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning:
+🌱 I’m currently learning :
 - Java and Data Structures & Algorithms (DSA)
 - Spring Boot and Backend Development
 - Frontend using HTML, CSS, JavaScript, React.js
